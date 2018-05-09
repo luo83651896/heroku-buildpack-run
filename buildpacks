@@ -1,0 +1,1 @@
+heroku buildpacks:add https://github.com/weibeld/heroku-buildpack-run
